@@ -30,6 +30,8 @@ The file structure is composed of a components folder that contains all our rend
 ### Running the App
 
 To run the app only 2 commands are necessary 
+
+
 npm install .
 
 npm run start
